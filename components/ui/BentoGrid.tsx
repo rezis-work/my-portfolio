@@ -97,7 +97,7 @@ export const BentoGridItem = ({
 
         {id === 6 && (
           <BackgroundGradientAnimation>
-            <div className=" absolute z-50 flex items-center justify-center text-white font-bold"></div>
+            {/* <div className=" absolute z-50 flex items-center justify-center text-white font-bold"></div> */}
           </BackgroundGradientAnimation>
         )}
 
