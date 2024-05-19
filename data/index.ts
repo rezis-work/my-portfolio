@@ -114,33 +114,38 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Rezi was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Rezi's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Rezi is the ideal partner.",
+    name: "Nugo Bibilashvili",
+    title: "Middle front end developer and linedevltd",
+    img: "/nugo-profile.svg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Defanetly Reccomend to hire Rezi, Amazing teaching skills, my favorite senior developer worked with. Proffesional in coding, meetings, relatioships, delivering. Be lucky and hire him",
+    name: "Beka Eloshvili",
+    title: "developer at digital institute | vake",
+    img: "/beqa-profile.svg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Rezi was our first developer when we opend and needed the gym, he delivered everything in just 2 week, delivered excelent work and make our gym to stand out. Defenetly recommend!",
+    name: "FreshLime",
+    title: "Gym comapny",
+    img: "/freshlime-profile.svg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Rezi is in our company software inginare, He made our company front part special, without him we won't be same as we are and will be. Amazing softskills, delivery, He taught more then 100 students front end in our academy, it's only joy to work with him, Recomennded!",
+    name: "LineDevltd",
+    title: "Full stack web development company",
+    img: "/khazi-logo.svg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Rezi was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Rezi's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Rezi is the ideal partner.",
     name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    title: "Director of ScandiFront Technologies",
+    img: "/profile.svg",
   },
 ];
 
