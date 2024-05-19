@@ -12,7 +12,7 @@ const Approach = () => {
       </h1>
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center gap-4">
         <Card
-          title="Olanning && Strategy"
+          title="Planning && Strategy"
           icon={<AceternityIcon order="Phase 1" />}
           des="We'll collaborate to map out your website's goals, target audience, 
           and key functionalities. We'll discuss things like site structure, 

@@ -194,14 +194,14 @@ export const workExperience = [
     id: 2,
     title: "Front End junior developer",
     desc: "Designed and developed web applications and games with JavaScript",
-    className: "md:col-span-2", // change to md:col-span-2
+    className: "md:col-span-2",
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
     title: "Front End middle developer",
     desc: "Working on Casino online games design, pixel perfect, developing game functionality",
-    className: "md:col-span-2", // change to md:col-span-2
+    className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
   {
@@ -217,13 +217,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/rezis-work",
   },
   {
     id: 2,
     img: "/twit.svg",
+    link: "https://x.com/shikuzeki",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/rezi-karanadze/",
   },
 ];
